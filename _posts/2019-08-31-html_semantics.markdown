@@ -32,7 +32,7 @@ After a while, [W3C (World Wide Web Consortium)](http://www.w3schools.com/) was 
 
 Some examples of semantic elements:  
 
-`<article> <p> <aside> <details> <figcaption> <figure> <footer> <header> <main> <nav> <section> <summary> <time>`
+```<article> <p> <aside> <details> <figcaption> <figure> <footer> <header> <main> <nav> <section> <summary> <time>```
 
 These elements clearly define its contents and some of them even define parts of a web page to make it easier to organize HTML mark-up content and provide greater readability.
 
@@ -48,9 +48,8 @@ Layout updated using semantic elements:
       <article id="pop">...</article>
     </section>
   </main>
-	<footer>...</footer>
-	```
+<footer>...</footer>
+```
 
-
-As you can see, the use of semantic HTML makes it much easier to describe content used within an element rather than using a ``<div>`` or ``<span>`` tag every time a description is needed. 
+As you can see, the use of semantic HTML makes it much easier to describe content used within an element rather than using a ```<div>``` or ```<span>``` tag every time a description is needed. 
 
