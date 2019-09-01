@@ -31,8 +31,8 @@ Layout using  ```<div>``` elements:
 After a while, [W3C (World Wide Web Consortium)](http://www.w3schools.com/) was able to turn those common descriptions into actual semantic elements eliminating the need to label so many div elements. Imagine a page full of div tags each with a description, things would get disorganized and messy fast! I would rather have descriptive HTML elements to arrange content vs using tons of div tags. W3C's goal was to make code more readable to developers and more descriptive for browsers.
 
 Some examples of semantic elements:  
-```
-<article> <p> <aside> <details> <figcaption> <figure> <footer> <header> <main> <nav> <section> <summary> <time>``` 
+
+`<article> <p> <aside> <details> <figcaption> <figure> <footer> <header> <main> <nav> <section> <summary> <time>`
 
 These elements clearly define its contents and some of them even define parts of a web page to make it easier to organize HTML mark-up content and provide greater readability.
 
@@ -52,5 +52,5 @@ Layout updated using semantic elements:
 	```
 
 
-As you can see, the use of semantic HTML makes it much easier to describe content used within an element rather than using a ```<div>``` or  ```<span>``` tag every time a description is needed. 
+As you can see, the use of semantic HTML makes it much easier to describe content used within an element rather than using a ``<div>`` or ``<span>`` tag every time a description is needed. 
 
