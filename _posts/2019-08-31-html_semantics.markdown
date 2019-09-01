@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "HTML Semantics"
-date:       2019-09-01 00:07:04 +0000
+date:       2019-08-31 20:07:05 -0400
 permalink:  html_semantics
 ---
 
@@ -50,6 +50,7 @@ Layout updated using semantic elements:
   </main>
 	<footer>...</footer>
 	```
+
 
 As you can see, the use of semantic HTML makes it much easier to describe content used within an element rather than using a ```<div>``` or  ```<span>``` tag every time a description is needed. 
 
