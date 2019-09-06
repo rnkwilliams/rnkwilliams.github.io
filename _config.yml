@@ -1,11 +1,11 @@
 # Site settings
 author: Ranika Williams
-title: 
+title: Life + Development
 header-img: img/home-bg.png
 email: rnkprice07@gmail.com
 copyright_name: Ranika Williams
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Journey of learning of code.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  rnkwilliams
