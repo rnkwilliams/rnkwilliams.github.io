@@ -1,12 +1,12 @@
 ---
 layout: post
-title:      "SINATRA COMIC BOOKS PROJECT"
-date:       2019-10-13 02:08:37 +0000
+title:      "SINATRA - Comic Book Project"
+date:       2019-10-12 22:08:38 -0400
 permalink:  sinatra_comic_books_project
 ---
 
 
-I’ll have to admit that this second time around, building this application was quite actually pretty fun! For project #2 I chose to build a Sinatra application for users to keep track of their  book collection. 
+I’ll have to admit that this second time around, building this application was actually pretty fun! For project #2 I chose to build a Sinatra application for users to keep track of their  book collection. 
 
 Sinatra is a web application framework and domain specific language (DSL) thats written in Ruby and is Rack based to allow your application to respond to HTTP requests through GET and POST routes. In addition to this framework, Active Record a Ruby library, was used which uses Object Relational Mapping (ORM) to create a database within the application. The Model-View-Controller (MVC) model was then used to keep the files organized and separate, but still be able to interact with each other through a concept called *separation of concerns* and the use of CRUD actions were used to create, read, update, and delete user inputs.
 
